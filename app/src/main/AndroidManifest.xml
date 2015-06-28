@@ -3,6 +3,7 @@
     package="com.sample.structure.screen" >
 
     <application
+        android:name=".StructureApplication"
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@drawable/ic_launcher"
